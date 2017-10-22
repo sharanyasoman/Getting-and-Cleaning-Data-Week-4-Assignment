@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
 Getting and Cleaning Data Week 4 Assignment
+
 This is the project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 1a.Create a folder if not already existing to extract the data
